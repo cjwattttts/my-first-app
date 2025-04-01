@@ -13,7 +13,7 @@ const ProductDetails = () => {
   };
 
   return (
-    <div style={{ padding: '20px' }}>
+    <div className="product-details">
       <h2>{product.name}</h2>
       <p><strong>Price:</strong> {product.price}</p>
       <p><strong>Description:</strong> {product.description}</p>
