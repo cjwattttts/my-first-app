@@ -1,0 +1,28 @@
+{
+  "name": "online-marketplace",
+  "version": "1.0.0",
+  "description": "A web application for buying and selling items online.",
+  "main": "src/main.jsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0"
+  },
+  "devDependencies": {
+    "vite": "^3.0.0"
+  },
+  "keywords": [
+    "marketplace",
+    "ecommerce",
+    "buy",
+    "sell",
+    "react"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
